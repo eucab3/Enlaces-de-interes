@@ -15,6 +15,8 @@ Recopilación de enlaces interesantes .......
 
 * [Servidor de impresión con Raspberry Pi](https://www.redeszone.net/raspberry-pi/conecta-impresora-usb-la-red-servidor-impresion-la-raspberry-pi/)
 
+* [Guia de montaje del Escornabot](https://escornabot.org/wiki/index.php/Gu%C3%ADa_de_montaje_(Brivoi))
+
 
 
 
