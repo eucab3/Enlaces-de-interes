@@ -13,6 +13,8 @@ Recopilación de enlaces interesantes .......
 
 * [Curso de Introducción al diseño 3D en FreeCad (por ObiJuan)](http://diwo.bq.com/course/curso-de-introduccion-a-freecad/)
 
+* [Servidor de impresión con Raspberry Pi](https://www.redeszone.net/raspberry-pi/conecta-impresora-usb-la-red-servidor-impresion-la-raspberry-pi/)
+
 
 
 
