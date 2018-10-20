@@ -17,6 +17,8 @@ Recopilación de enlaces interesantes .......
 
 * [Guia de montaje del Escornabot](https://escornabot.org/wiki/index.php/Gu%C3%ADa_de_montaje_(Brivoi))
 
+* [Programador para el ESP-01](https://intranet.aindustriosa.org/news/2017/09/escornabot-muwi-mucho-mas-que-wifi/)
+
 
 
 
