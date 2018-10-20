@@ -11,5 +11,8 @@ Recopilación de enlaces interesantes .......
 
 * https://joedicastro.com/
 
+* [Curso de Introducción al diseño 3D en FreeCad (por ObiJuan)](http://diwo.bq.com/course/curso-de-introduccion-a-freecad/)
+
+
 
 
